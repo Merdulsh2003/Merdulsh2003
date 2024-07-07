@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/merdul-sharma-962324292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
                   <a href="https://merdulsh2003.github.io/Merdul.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
                   
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Divyanshu-RS&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Merdulsh2003&style=flat-square&color=blue" alt=""></p>
 <p align="center"><img src="https://github.com/Merdulsh2003/Merdulsh2003/blob/main/Git-GIF.gif" width="600" height="300"  /></p>
 </p>
 
