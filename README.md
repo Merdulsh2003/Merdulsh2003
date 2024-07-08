@@ -42,9 +42,7 @@
 ![Merdul Sharma's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Merdulsh2003&theme=github-compact&area=true&bg_color=ffff&color=000)
 
 
-<a href="https://skyline.github.com/Merdulsh2003/2024">
-  <img src="./assets/2024.gif" alt="2024 GitHub Skyline" width="auto" height="auto" />
-</a>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merdulsh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Merdulsh2003's GitHub stats" />
