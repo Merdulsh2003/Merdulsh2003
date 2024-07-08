@@ -46,11 +46,11 @@
   <img src="./assets/2024.gif" alt="2024 GitHub Skyline" width="auto" height="auto" />
 </a>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merdulsh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Merdulsh2003's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merdulsh2003&theme=dark&hide_border=false" alt="Merdulsh2003's GitHub streak stats" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merdulsh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
