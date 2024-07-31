@@ -12,7 +12,7 @@
 #  💫 About Me:
 - 🙋‍♂️ I am a passionate 4th-year Computer Science Engineering student with a keen interest in Web Development and Machine Learning. I enjoy working on innovative projects, learning new technologies, and solving complex problems.
   
-- 👨‍💻 All of my projects are available at [#MyPortfolio](https://merdulsh2003.github.io/Merdul.github.io/)
+- 👨‍💻 All of my projects are available at [#MyPortfolio](https://merdul-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning **React and Node.js**
 
