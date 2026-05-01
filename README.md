@@ -1,60 +1,80 @@
-<h1 align="center">Hi 👋, I'm Merdul Sharma</h1>
-<h3 align="center">A passionate Frontend Developer and Coding Enthusiast</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/merdul-sharma-962324292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-                  <a href="https://merdulsh2003.github.io/Merdul.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-                  
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Merdulsh2003&style=flat-square&color=blue" alt=""></p>
-<p align="center"><img src="https://github.com/Merdulsh2003/Merdulsh2003/blob/main/Git-GIF.gif" width="600" height="300"  /></p>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c447c,100:378add&height=120&section=header&animation=fadeIn" width="100%"/>
+</div>
 
+<div align="center">
 
-#  💫 About Me:
-- 🙋‍♂️ I am a passionate 4th-year Computer Science Engineering student with a keen interest in Web Development and Machine Learning. I enjoy working on innovative projects, learning new technologies, and solving complex problems.
-  
-- 👨‍💻 All of my projects are available at [#MyPortfolio](https://merdul-portfolio.vercel.app/)
+# Merdul Sharma  
+**Data Analyst · ML Engineer · BI Developer**
 
-- 🌱 I’m currently learning **React and Node.js**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c447c?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merdul-sharma-962324292/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-185fa5?style=flat-square&logo=vercel&logoColor=white)](https://merdul-sharma.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-378add?style=flat-square&logo=gmail&logoColor=white)](mailto:merdulsharma2003@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0f5fa5?style=flat-square&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1vIWxtRS_iYb9U5Kw3niXtda56NxO6UME/view](https://drive.google.com/file/d/1u5B7L4R3rEi4QAzdoKWdPxSS89SHIXYE/view))
 
-- 📫 How to reach me [MerdulSh2003](merdulsharma2003@gmail.com)
+</div>
 
-- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1vIWxtRS_iYb9U5Kw3niXtda56NxO6UME/view?pli=1)
-<br>
-  
-# 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/merdul sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merdul sharma" height="30" width="40" /></a>
-<a href="https://fb.com/merdul.sharma.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="merdul.sharma.3" height="30" width="40" /></a>
-<a href="https://instagram.com/mridulsh2003_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mridulsh2003_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/merdul sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="merdul sharma" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/merdulsh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="merdulsh2003" height="30" width="40" /></a>
-</p>
+---
 
-<br>
+## About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Microsoft-Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Microsoft_Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Final-year **B.Tech (CSE - AI & ML)** student with a strong focus on **data analytics, machine learning, and business intelligence**. I turn raw data into actionable insights and build systems that support real-world decision-making.
 
+- 📊 **Data Analyst Intern @ TEG Analytics** — Built healthcare KPI dashboards using Power BI, SQL & DAX  
+- 🤖 **ML Intern @ Bharat Intern** — NLP-based genre classifier (90%+ accuracy)  
+- 🏛️ **Patent Holder** — ML-based Digital Watermarking System *(App. No. 202511036219 A)*  
+- 🏆 **Top 10%** — Scaler National Coding League 2024  
+- 🌱 Exploring **React & Node.js** for full-stack capabilities  
+- 📫 Reach me: **merdulsharma2003@gmail.com**
 
-<br>
+---
 
-# 📊 GitHub Stats:
+## Core Skills
 
-![Merdul Sharma's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Merdulsh2003&theme=github-compact&area=true&bg_color=ffff&color=000)
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-0c447c?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185fa5?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-378add?style=flat-square&logo=powerbi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0c447c?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-185fa5?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-378add?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0c447c?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-378add?style=flat-square&logo=microsoft-excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0c447c?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-378add?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-185fa5?style=flat-square&logo=git&logoColor=white)
 
-<a href="https://skyline.github.com/Merdulsh2003/2024">
-  <img src="./assets/2024.gif" alt="2024 GitHub Skyline" width="auto" height="auto" />
-</a>
+</div>
 
+---
 
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merdulsh2003&theme=dark&hide_border=false" alt="Merdulsh2003's GitHub streak stats" />
-</p>
+| Project | Description | Tech Stack | Impact |
+|--------|------------|-----------|--------|
+| **Superstore BI Dashboard** | Retail analytics on 3,900+ transactions | Python · Power BI · Excel | Reduced inventory risk by 25% |
+| **Customer Behavior Analysis** | Segmentation & revenue insights | Python · SQL · Power BI | Delivered 4 key business insights |
+| **Healthcare KPI Dashboard** | Clinical operations dashboard | Power BI · DAX · SQL | 10+ KPIs across 5,000+ records |
+| **Movie Genre Predictor** | NLP-based classification system | Scikit-learn · TF-IDF | 90%+ model accuracy |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merdulsh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>
+---
 
+## Certifications & Achievements
 
+- 🏛️ **Patent** — ML-based Digital Watermarking System *(202511036219 A)*  
+- 📜 **Python for Data Science** — Infosys Springboard  
+- ⭐ **Python Web Developer (A+)** — Capgemini  
+- 🏆 **Top 10%** — Scaler National Coding League 2024  
+
+---
+
+<div align="center">
+
+### “Data is the new oil — I build the refinery.”
+
+**Open to full-time roles, internships, and freelance analytics projects**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378add,100:0c447c&height=80&section=footer" width="100%"/>
+
+</div>
